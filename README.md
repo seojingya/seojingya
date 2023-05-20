@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Sofia! I love learing new technology and skills of web, I leaving in Taiwan now.  
+I love learing new technology and skills of web, I leaving in Taiwan now.  
 I want to work at others country, talk a lot with all sort of people and know more about this world 😸.  
 
 🤓 My values  
