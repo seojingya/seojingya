@@ -24,7 +24,8 @@ I hope I can prepared in 2023 💪. I also want to contribute more open source p
 🧠 That I know and use   -->
 
 
-    
+
+<hr>
 📚 My Skills      
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,laravel,figma,ai,ps)
 
