@@ -17,11 +17,12 @@ I want to work at others country, talk a lot with all sort of people and know mo
 🍏 Beginner's mindset and curiosity  
 🙌 Sharing anything I learned  
 
-🔭 Goals of 2023  
+<!-- 🔭 Goals of 2023  
 I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week,   
 I hope I can prepared in 2023 💪. I also want to contribute more open source projects make I can improve my skills of program.  
 
-🧠 That I know and use  
+🧠 That I know and use   -->
+
 📚 Langues and Frameworks  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,7 +37,7 @@ I hope I can prepared in 2023 💪. I also want to contribute more open source p
 
 
 
-🔧 Tool  
+<!-- 🔧 Tool  
 Version Control(Git/it-Flow)  
 Open Source Projects  
 Travis-CI  
@@ -49,4 +50,4 @@ Loading.....
 Personal site:  
 Dev.to:  
 StackOverflow:  
-Medium:   
+Medium:    -->
