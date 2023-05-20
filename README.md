@@ -33,7 +33,7 @@ I hope I can prepared in 2023 💪. I also want to contribute more open source p
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-bootstrap css3 git html5 illustrator javascript mariadb mysql photoshop php
+
 
 
 🔧 Tool  
