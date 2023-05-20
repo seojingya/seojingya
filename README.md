@@ -13,7 +13,7 @@
 I love learing new technology and skills of web, I leaving in Taiwan now.  
 I want to work at others country, talk a lot with all sort of people and know more about this world 😸.  
 
-🤓 My values  
+
 🍏 Beginner's mindset and curiosity  
 🙌 Sharing anything I learned  
 
@@ -23,17 +23,10 @@ I hope I can prepared in 2023 💪. I also want to contribute more open source p
 
 🧠 That I know and use   -->
 
-📚 Langues and Frameworks  
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,PHP,MySQL,laravel,figma,ai,ps)
+📚 My Skills
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,laravel,figma,ai,ps)
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
 
 
 
